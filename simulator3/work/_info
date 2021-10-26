@@ -1,0 +1,110 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/yan11/OneDrive/Desktop/Digitation/Simulator3
+vrv_ctl
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1624207424
+!i10b 1
+!s100 f7I]i3I42J]5QVN8RQjo@3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1<;7[g4f@;_;K`7mZXg`G2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1624204836
+8rv_ctl.sv
+Frv_ctl.sv
+Z4 Fparams.inc
+!i122 9
+L0 7 251
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1624207424.000000
+!s107 params.inc|rv_ctl.sv|
+!s90 -reportprogress|300|rv_ctl.sv|
+!i113 1
+Z6 tCvgOpt 0
+vrv_dp
+R1
+!s110 1624207429
+!i10b 1
+!s100 m;Pi=QGKUT1>1zBKIOUYP3
+R2
+I`kHUT_FY;6BW=`fA3g=]>3
+R3
+S1
+R0
+w1624204978
+8rv_dp.sv
+Frv_dp.sv
+R4
+!i122 10
+L0 7 235
+R5
+r1
+!s85 0
+31
+!s108 1624207429.000000
+!s107 params.inc|rv_dp.sv|
+!s90 -reportprogress|300|rv_dp.sv|
+!i113 1
+R6
+vrv_sim
+R1
+!s110 1624207433
+!i10b 1
+!s100 JkAAo:RSgz<WaNZceBeXX1
+R2
+IAk1;Y`l`OX6]kcO;]l[0I3
+R3
+S1
+R0
+w1624200630
+8rv_sim.sv
+Frv_sim.sv
+R4
+!i122 11
+L0 7 157
+R5
+r1
+!s85 0
+31
+!s108 1624207433.000000
+!s107 params.inc|rv_sim.sv|
+!s90 -reportprogress|300|rv_sim.sv|
+!i113 1
+R6
+vrv_top
+R1
+!s110 1624207437
+!i10b 1
+!s100 ?T<f9]<8LbQ]]OmiBa8OW0
+R2
+I8H5c;e9GPl@C@N?Ed=[DM0
+R3
+S1
+R0
+w1624204953
+8rv_top.sv
+Frv_top.sv
+!i122 12
+L0 8 102
+R5
+r1
+!s85 0
+31
+!s108 1624207437.000000
+!s107 rv_top.sv|
+!s90 -reportprogress|300|rv_top.sv|
+!i113 1
+R6
